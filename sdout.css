@@ -1,0 +1,21 @@
+head{
+	margin: 0;
+	padding: 0;
+	background-size: cover;
+	background-position: center;
+}
+.design{
+	width: 200px;
+	height: 300px;
+	padding: 20px;
+	text-align: center;
+	top: 10%;
+	left: 40%;
+	position: absolute;
+	color: gold;
+}
+h1{
+	text-align: center;
+	color: gold;
+	padding-right: 40px;
+}

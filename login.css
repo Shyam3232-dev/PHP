@@ -1,0 +1,25 @@
+body{
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	background-image: url("back.webp");
+	background-repeat: no-repeat;
+}
+.image{
+	padding-left: 450px;
+}
+form{
+	padding: 5px;
+	text-align: center;
+	border: 15px solid;
+	border-style: ridge;
+	border-color: green;
+	border-top-left-radius: 25%;
+	border-top-right-radius: 25%;
+}
+hr{
+	border-color: green;
+}
+p{
+	color: drakred;
+}

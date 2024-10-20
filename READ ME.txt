@@ -1,0 +1,9 @@
+*TO RUN THIS FILE YOU NEED A SERVER LIKE XAMPP*
+#After server ready 
+#Extract the file and import database file to mysql
+#Before exporting create a database name |student|
+#After exporting over place the folder project in following 
+location
+C:\xampp\htdocs
+#Then excute the project
+#http://localhost/project/login.php
